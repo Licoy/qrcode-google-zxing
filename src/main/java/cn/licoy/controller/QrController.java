@@ -16,8 +16,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author 刘杰
- * @version 1.0 /
+ * @author Licoy.cn
+ * @version 1.0 / qrcode
  */
 @Controller
 public class QrController {
